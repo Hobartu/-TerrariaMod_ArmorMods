@@ -1,0 +1,3 @@
+displayName = 盔甲修饰词
+author = 秋落叶
+version = 0.1
